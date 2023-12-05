@@ -5,14 +5,14 @@ A collection of public-domain/CC0-1.0-licensed  music from scattered locations a
 ---
 
 ## Backstory
-I created this repository out of a personal need for a music dataset to aid my own research on procedural music analysis and published it to give back to the community.
+I created this repository out of a personal need for a music dataset to aid my own procedural music analysis/research and published it to give back to the community.
 
 ## Purpose
 This repo aims to provide a valuable dataset for individuals interested or curious in procedural music analysis. Such as academic researchers, digital signal proccessor experimentors and ethical audio driven ML efforts.
 
 I hope it can enable more musical-researchers to be able to share meaningful results without infringing on the copyrights of musicians.
 
-## Data Set Notes
+## DataSet Notes
 1. The music is grouped based on the websites that originally aggregated the audio.
 2. No normalization to the data has been applied, so expect various file formats, sample rates, etc...
 3. Dataset aims to *only* include music in the dataset not misc audio files. Still, there are likely some files that do not resemble "music" at least in the traditional sense.
@@ -41,4 +41,4 @@ Many of these sites accept donations, offer paid music catalog services, and or 
 ## Checkout My Stuff
 If you're interested to see the fruits of my own procedural music analysis endeavors checkout [Sound-Safari](https://soundsafari.io?ref=github) !
 
-I created Sound Safari so anybody can enjoy concert-grade music visuals with just their own computer and screen(s).
+I created Sound Safari so anybody can enjoy concert-grade 3D music visuals through their own computer.
